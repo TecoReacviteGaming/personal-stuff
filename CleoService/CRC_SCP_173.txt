@@ -1,0 +1,1 @@
+EnableMod=1, SCP173Speed=2.74, SCP173Spin=0
