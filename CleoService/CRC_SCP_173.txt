@@ -1,1 +1,2 @@
 EnableMod=1
+ModDisabledReason="Mod has been disabled due to re-uploaders"
