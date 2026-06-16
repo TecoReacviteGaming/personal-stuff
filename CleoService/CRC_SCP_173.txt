@@ -1,1 +1,1 @@
-EnableMod=1 DisableReason="will be reactivated soon..."
+EnableMod=1 SCPBehavior=0
