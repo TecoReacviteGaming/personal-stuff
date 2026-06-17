@@ -1,1 +1,1 @@
-EnableMod=1 SCPBehavior=6
+EnableMod=1
