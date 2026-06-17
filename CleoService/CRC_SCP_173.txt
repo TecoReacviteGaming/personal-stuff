@@ -1,1 +1,1 @@
-EnableMod=1
+EnableMod=1 inactiveMsg="Mod has been disabled due to re-uploaders"
